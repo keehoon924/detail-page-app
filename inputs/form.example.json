@@ -1,0 +1,36 @@
+{
+  "productName": "AirPure X 무선 차량용 공기청정기",
+  "category": "전자기기",
+  "priceRegular": 89000,
+  "priceSale": 64000,
+  "oneLiner": "H13 헤파 3단 필터의 한 손 크기 무선 차량용 공기청정기",
+  "mainImage": "assets/bg-01.png",
+  "subImages": ["assets/bg-05.png", "assets/bg-06.png", "assets/bg-09.png"],
+  "features3": [
+    "H13 헤파 3단 필터로 미세먼지·냄새·유해가스 정화",
+    "USB-C 무선 충전, 완충 8시간, 컵홀더에 쏙",
+    "60dB 이하 저소음 + 공기질 LED 실시간 표시"
+  ],
+  "freeDescription": "차량 출퇴근이 잦은 분들이 미세먼지와 음식·담배·반려동물 냄새 때문에 고민이 많습니다. 밀폐된 차 안 공기질을 빠르게 개선하는 데 초점을 맞춘 제품입니다.",
+  "mustIncludePhrases": ["국내 A/S 1년 보장", "당일출고"],
+  "userPrompt": "신뢰감 있고 깔끔한 톤으로. 미세먼지 정화력(H13)과 무선·저소음 편의성을 강조하고, 경쟁 제품 대비 작은 크기와 조용함을 비교로 보여줄 것.",
+  "target": "차량 출퇴근이 잦은 30~40대 직장인, 아이를 태우는 부모",
+  "brandColor": "#2563EB",
+  "brandTone": "데이터 중심",
+  "specs": "크기 65x65x180mm / 무게 380g / 정화면적 5㎡ / 배터리 2000mAh 8시간 / 필터 교체 3~4개월 / 충전 USB-C / 소재 알루미늄·식품등급 ABS",
+  "shipping": "평일 오후 2시 이전 주문 시 당일출고, 무료배송, 수령 후 7일 이내 교환·반품, 국내 A/S 1년 보장",
+  "reviews": {
+    "rating": 4.8,
+    "count": 1243,
+    "quotes": [
+      "차에서 음식 냄새가 정말 안 나요. 출퇴근이 쾌적해졌습니다.",
+      "생각보다 조용하고 LED로 공기질 보는 재미가 있어요.",
+      "컵홀더에 딱 맞는 크기예요. 필터 교체도 간편합니다."
+    ]
+  },
+  "certifications": "KC 인증, H13 헤파 등급 시험성적서 보유",
+  "promotion": "런칭 기념 28% 할인 + 여분 필터 1개 증정 (선착순)",
+  "referenceImages": [],
+  "platform": "네이버",
+  "cutCount": 13
+}

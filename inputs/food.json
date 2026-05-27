@@ -1,0 +1,20 @@
+{
+  "productName": "불맛 가득 국물 떡볶이",
+  "category": "식품",
+  "styleId": "food-spicy",
+  "priceRegular": 12900,
+  "priceSale": 9900,
+  "oneLiner": "집에서 즐기는 매콤 불맛 국물 떡볶이",
+  "mainImage": "public/uploads/food-main.jpg",
+  "subImages": ["public/uploads/food-2.jpg", "public/uploads/food-3.jpg"],
+  "peopleImages": ["public/uploads/food-person.jpg"],
+  "features3": ["진한 불맛 양념", "쫄깃한 국내산 쌀떡", "간편 전자레인지 조리"],
+  "freeDescription": "퇴근 후 5분, 매콤하게 땡길 때 바로 끓여 먹는 국물 떡볶이입니다.",
+  "mustIncludePhrases": ["당일출고", "국내산 쌀떡"],
+  "userPrompt": "식욕을 자극하는 따뜻하고 친근한 톤으로. 불맛과 간편 조리를 강조하고 매콤함을 먹음직스럽게.",
+  "reviews": { "rating": 4.9, "count": 2310, "quotes": ["진짜 분식집 맛이에요", "국물까지 싹 비웠어요", "간편한데 퀄리티가 좋아요"] },
+  "certifications": "HACCP 인증",
+  "promotion": "런칭 기념 1+1",
+  "platform": "네이버",
+  "cutCount": 12
+}

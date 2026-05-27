@@ -1,0 +1,36 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# env files (절대 커밋 금지 — API 키 보관)
+.env*.local
+.env
+
+# 산출물 (생성물 — 빌드로 재생성됨)
+/output
+/assets
+/pipeline/*.json
+/public/generated
+/public/uploads
+
+# 대용량 바이너리 (git 부적합 — 개당 수십 MB). 디스크엔 보존, 버전관리 제외.
+/inputs/references
+/public/imagegen
+/public/food-result
+/public/genlayout
+/public/demo
+/public/stock-preview
+/public/styles
+/public/*.png
+/.tmp
+next-env.d.ts
+
+# misc
+*.log
+.DS_Store

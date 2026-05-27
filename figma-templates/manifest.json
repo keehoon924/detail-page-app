@@ -1,0 +1,9 @@
+{
+  "name": "상세페이지 템플릿 (레퍼런스 재현)",
+  "id": "detailpage-templates",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ]
+}

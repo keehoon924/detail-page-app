@@ -1,0 +1,7 @@
+{
+  "name": "상세페이지 생성기 (프로토)",
+  "id": "detailpage-figma-proto",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
