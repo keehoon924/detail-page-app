@@ -14,6 +14,7 @@
 
 # 산출물 (생성물 — 빌드로 재생성됨)
 /output
+/figma-generated
 /assets
 /pipeline/*.json
 /public/generated
