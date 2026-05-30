@@ -3,17 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "상세페이지 13컷 이미지 생성 멀티 에이전트 팀 (Claude Code 조율 + OpenAI 배경 + Playwright 텍스트 합성)",
+  "description": "상세페이지 자동 생성 — 시안 1:1 레이아웃 + AI 카피(7무기) + 사진 자동 슬롯",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "gen:bg": "tsx src/generate-bg.ts",
-    "compose": "tsx src/compose.ts",
-    "generate": "tsx src/generate.ts",
-    "render": "tsx src/render.ts",
-    "demo": "tsx src/render-demo.ts",
-    "validate": "tsx src/validate.ts"
+    "slice": "tsx src/templates/slice.ts"
   },
   "dependencies": {
     "@imgly/background-removal-node": "^1.4.5",

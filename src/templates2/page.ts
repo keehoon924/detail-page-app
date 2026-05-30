@@ -10,7 +10,7 @@ function bgColor(bg: BG, t: Theme): string {
 export function buildPage(tpl: Template2): string {
   const w = tpl.width ?? 860;
   const t = tpl.theme;
-  const vars = `--w:${w}px;--primary:${t.primary};--primary-deep:${t.primaryDeep};--light:${t.light};--light2:${t.light2};--ink:${t.ink};--sub:${t.sub};--accent:${t.accent};--bg:${t.bg};--on-primary:${t.onPrimary}`;
+  const vars = `--w:${w}px;--primary:${t.primary};--primary-deep:${t.primaryDeep};--light:${t.light};--light2:${t.light2};--ink:${t.ink};--sub:${t.sub};--accent:${t.accent};--bg:${t.bg};--on-primary:${t.onPrimary};--surface:${t.surface ?? '#ffffff'};--badge:${t.badge ?? t.primary}`;
 
   const parts: string[] = [];
   tpl.sections.forEach((s, i) => {
